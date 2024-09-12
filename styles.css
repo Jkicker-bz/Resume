@@ -1,0 +1,55 @@
+body {
+    background-color: #5e5e5e;
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px black;
+}
+body h1{ 
+    text-align: center;
+    color: black;
+    font-size: xx-large;
+    font-weight: 800;
+    text-shadow: 1px 2px white;
+}
+
+.address {
+    text-align: center;
+    font-size: large;
+    padding-bottom: 0;
+}
+
+#details {
+    font-style: italic;
+    text-align: center;
+}
+#details a {
+    color:blueviolet;
+}
+#details a:hover {
+    color: white;
+    cursor: pointer;
+}
+.skills ul {
+    display: inline-block;
+}
+
+.schedule p{
+    font-size: large;
+    font-weight: 800;
+}
+.schedule table {
+    text-align: center;
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.212);
+    border: 1px solid black;
+}
+.schedule th {
+    color: black;
+    text-align: center;
+    position: relative;
+    left: 17%;
+}
+.schedule td {
+    color: #1f1e1e;
+    border: 1px solid black;
+}
