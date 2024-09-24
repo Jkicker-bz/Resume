@@ -1,15 +1,15 @@
 body {
-    background-color: #5e5e5e;
+    background-color: #474D50;
     color: white;
     text-align: center;
     text-shadow: 1px 1px black;
 }
 body h1{ 
     text-align: center;
-    color: black;
+    color: white;
     font-size: xx-large;
     font-weight: 800;
-    text-shadow: 1px 2px white;
+    text-shadow: 1px 2px black;
 }
 
 .address {
@@ -40,7 +40,7 @@ body h1{
 .schedule table {
     text-align: center;
     display: inline-block;
-    background-color: rgba(255, 255, 255, 0.212);
+    background-color: #3D4345;
     border: 1px solid black;
 }
 .schedule th {
@@ -50,6 +50,6 @@ body h1{
     left: 17%;
 }
 .schedule td {
-    color: #1f1e1e;
-    border: 1px solid black;
+    color: white;
+    border: 1px solid white;
 }
